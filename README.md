@@ -12,5 +12,10 @@ Key Features:
 > * Interactive Quizzes: Challenge yourself with interactive quizzes that test your knowledge of German vocabulary.
 > * Progress Tracking: Monitor your progress over time and see how your vocabulary skills improve.
 
+Moreover, "German Vocab Quest" encompasses a unique structure. The index.html page asks for the input from user. The main application seamlessly integrates multiple question and answer sets, each residing in its dedicated HTML file, such as q1.html, q2.html, and more.
+This modular approach allows for easy management of content and ensures a dynamic and ever-expanding question database.
+
+
+Whether you're preparing for language exams, planning a trip to Germany, or simply enthusiastic about language acquisition, "German Vocab Quest" provides an enjoyable and efficient means to master the German language. Start your language adventure today, and watch your vocabulary flourish!
 Whether you're preparing for exams, planning a trip to Germany, or simply passionate about learning languages, "German Vocab Quest" makes mastering German vocabulary an enjoyable journey. Start your language adventure today and watch your vocabulary grow!
 
